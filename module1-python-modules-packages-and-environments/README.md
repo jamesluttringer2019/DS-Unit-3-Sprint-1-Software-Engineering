@@ -79,3 +79,6 @@ If you get through all the steps, try some of the following stretch goals:
   `pip` (the official base Python package installer, which both Anaconda and
   `pipenv` build on) gets things from by default. For now stick with Test PyPI
   for your own publishing, but you can work to make things "real"!
+
+
+Github Repo for the package: https://github.com/jamesluttringer2019/lambdata_jamesluttringer2019
