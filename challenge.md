@@ -262,9 +262,20 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+  
+  I would say an important part of code review are comments and docstrings. They make it easier to follow
+  code, and they help the person reviewing to determine whether or not the code functions properly. Additionally,
+  code style plays a large role in the readability of the code. This also determines how good of a job the 
+  person reviewing the code can do.
+  
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
+  
+  Containers are created from a standardized image of a program. This is important because this means that
+  no matter what the computer environment looks like, the program will always have the necessary packages 
+  it needs. As a result, the container would allow the program to run on all of the computers, thus allowing everyone
+  to have an exact copy regardless of their computer differences.
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
